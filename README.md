@@ -1,4 +1,4 @@
-- Hi👋🏻, My name is Reham Aljulayf
+- Hi👋🏻, My name is Reham Aljulayfi
 - 👀 I’m interested in UI/UX design , programming
 - 🌱 I’m currently learning Software Engineering at PSAU
 - 💞️ I’m looking to learning new things 
