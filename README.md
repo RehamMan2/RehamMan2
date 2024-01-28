@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehamman2&label=Profile%20views&color=0e75b6&style=flat" alt="rehamman2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rehamman2" target="blank"><img src="https://img.shields.io/twitter/follow/rehamman2?logo=twitter&style=for-the-badge" alt="rehamman2" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering at PSAU**
 
