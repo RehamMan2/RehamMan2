@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reham Aljulayfi</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehamman2&label=Profile%20views&color=0e75b6&style=flat" alt="rehamman2" /> </p>
-
-
 - 🌱 I’m currently learning **Software Engineering at PSAU**
 
 - 💬 Ask me about **AI , Swift Language**
