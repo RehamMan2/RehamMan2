@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Reham Aljulayfi</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer from KSA</h3>
 
 - 🌱 I’m currently learning **Software Engineering at PSAU**
 - 👀 I’m interested in UI/UX design , programming
 - 💬 Ask me about **AI , Swift Language**
--💞️ I’m looking to learning new things 
+- 💞️ I’m looking to learning new things 
 - 📫 How to reach me **Reham.aljulayfi@gmail.com**
+- ⚡ Fun fact: I'm who loves books! And love Tech World.
 
 <h3 align="left">🤳🏻Connect with me:</h3>
 <p align="left">
