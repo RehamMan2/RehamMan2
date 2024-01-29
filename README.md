@@ -9,7 +9,7 @@
 - 💬 Ask me about **AI , Swift Language**
 - 💞️ I’m looking to learning new things 
 - 📫 How to reach me **Reham.aljulayfi@gmail.com**
-- ⚡ Fun fact: I'm who loves books! And love Tech World.
+- ⚡ Fun fact: I'm who loves books!
 
 <h3 align="left">🤳🏻Connect with me:</h3>
 <p align="left">
